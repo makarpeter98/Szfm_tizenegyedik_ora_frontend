@@ -1,0 +1,6 @@
+npx create-react-app szfm_tizenegyedik_ora_frontend_felkesz
+npm i axios
+npm install react-scripts --save
+npm i react-router-dom --save
+npm i bootstrap
+npm start
