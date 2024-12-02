@@ -1,4 +1,7 @@
-npx create-react-app szfm_tizenegyedik_ora_frontend_felkesz
+https://yumingchang1991.medium.com/set-up-nodejs-without-administrator-right-in-2023-29e2abd05852
+
+
+npx create-react-app szfm_tizenegyedik_ora_frontend
 npm i axios
 npm install react-scripts --save
 npm i react-router-dom --save
