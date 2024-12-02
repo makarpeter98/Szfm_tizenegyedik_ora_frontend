@@ -5,5 +5,5 @@ import { Link, useParams } from "react-router-dom";
 export default function ViewPerson() {
   
 
-  return (<div>ViewPerson</div>);
+  return ("<div>ViewPerson</div>");
 }

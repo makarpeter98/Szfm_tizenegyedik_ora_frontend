@@ -6,5 +6,5 @@ export default function EditPerson() {
   let navigate = useNavigate();
 
 
-  return (<div>Edit Person</div>);
+  return ("<div>Edit Person</div>");
 }
